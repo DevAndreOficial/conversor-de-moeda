@@ -23,7 +23,7 @@ public class ConsultarTaxaDisponiveis {
             return  new Gson().fromJson(response.body(), Taxas.class);
 
         } catch (Exception e){
-            throw new RuntimeException("Erro na resposta....");
+            throw new RuntimeException("Erro na resposta...." + e.getMessage());
         }
 
 
