@@ -43,6 +43,3 @@ OBS: Certifique-se de instalar o Java e uma IDE na sua maquina para melhor exper
 ├── GerarArquivo.java
 ├── Taxas.java
 ├── historico.txt (gerado automaticamente)
-
-Desafio do programa ONE DA ORACLE... 
-@Oracle + ![Alura](https://www.alura.com.br/sobre)
